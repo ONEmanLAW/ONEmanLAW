@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ****
+ 🔭 I’m currently working on **vue.js**
  
- 🌱 I’m currently learning ****
+ 🌱 I’m currently learning **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
 💬 Ask me about ** **
 
