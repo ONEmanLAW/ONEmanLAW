@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
-💬 Ask me about ** **
+💬 Ask me about **Me**
 
  </div>
  
