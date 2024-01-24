@@ -57,8 +57,7 @@
 <br>
 <div align=center>
     
-  ![GitHub Stats](https://github-readme-stats-ONEmanLAW.vercel.app/api?username=ONEmanLAW&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=merko)
 
   
   ![GitHub Streak](https://github-readme-streak-stats-ONEmanLAW.vercel.app/?user=ONEmanLAW&count_private=true&theme=react&border_radius=10)
