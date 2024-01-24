@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **vue.js**
  
- 🌱 I’m currently learning **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
+ 🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
-💬 Ask me about **Me**
+💬 Ask me about **My code, or other stuff, i am happy to help!**
 
  </div>
  
@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  A mettre du code 
+  Comming soon ... 
   
   <br/><br/><br/>
 </div>
