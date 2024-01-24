@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ONEmanLAW/output/github-contribution-grid-snake.svg" />
+  A mettre du code 
   
   <br/><br/><br/>
 </div>
@@ -57,19 +57,10 @@
 <br>
 <div align=center>
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=merko)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=gruvbox)
 
-  
-  ![GitHub Streak](https://github-readme-streak-stats-ONEmanLAW.vercel.app/?user=ONEmanLAW&count_private=true&theme=react&border_radius=10)
-  <br/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ONEmanLAW&theme=dark)](https://git.io/streak-stats)
     
-  ![Top Langs](https://github-readme-stats-ONEmanLAW.vercel.app/api/top-langs/?username=ONEmanLAW&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONEmanLAW&theme=dark&layout=donut-vertical)](https://github.com/ONEmanLAW/github-readme-stats)
+  
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
