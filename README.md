@@ -58,8 +58,9 @@
 <div align=center>
     
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=gruvbox)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ONEmanLAW&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ONEmanLAW&theme=dark)](https://git.io/streak-stats)
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONEmanLAW&theme=dark&layout=donut-vertical)](https://github.com/ONEmanLAW/github-readme-stats)
   
