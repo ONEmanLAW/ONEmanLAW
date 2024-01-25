@@ -56,9 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=gruvbox)](https://github.com/ONEmanLAW/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONEmanLAW&layout=donut-vertical)](https://github.com/ONEmanLAW/github-readme-stats)
+ Comming soon ...   
   
 </div>
