@@ -57,6 +57,6 @@
 <br>
 <div align=center>
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW)](https://github.com/ONEmanLAW/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=gruvbox)
   
 </div>
