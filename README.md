@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **My Portfolio**
+ 🔭 I’m currently working on **My Portfolio & Stats on GitHub**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
