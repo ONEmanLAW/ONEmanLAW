@@ -57,6 +57,6 @@
 <br>
 <div align=center>
     
-Comming soon ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW)](https://github.com/ONEmanLAW/github-readme-stats)
   
 </div>
