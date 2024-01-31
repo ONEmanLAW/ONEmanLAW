@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **vue.js (New Project soon👀)**
+ 🔭 I’m currently working on **vue.js (New Project Soon👀)**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
