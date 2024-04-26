@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Game (In p5.js)**
+ 🔭 I’m currently working on a **Game (In p5.js)**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
@@ -56,6 +56,7 @@
 <br>
 <div align=center>
 
- Comming soon ...   
+![ONEmanLAW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=gruvbox) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONEmanLAW&layout=pie)](https://github.com/ONEmanLAW/github-readme-stats)
   
 </div>
