@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Game (In p5.js)**
+ 🔭 I’m currently working on a **Angular**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
