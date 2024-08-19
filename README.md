@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Angular**
+ 🔭 I’m currently working on **C# & Unity**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
@@ -36,7 +36,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,unity,figma,github,git,powershell,vercel"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,p5js,nodejs,vue,vite,pinia,php,mysql,cs"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,p5js,nodejs,vue,angular,vite,pinia,php,mysql,cs"/><br>
 </div>
 
 <br/>
