@@ -14,6 +14,10 @@
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
+ 👔 I also work at **Daesign**
+
+     
+
 
  </div>
  
