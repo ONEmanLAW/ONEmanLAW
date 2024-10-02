@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ANGULAR**
+ 🔭 I’m currently working on **POSTGRESQL**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
 
