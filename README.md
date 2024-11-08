@@ -50,7 +50,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     
- ![GitHub Contribution Snake](https://github.com/ONEmanLAW/TON_REPO/blob/main/dist/snake.svg)
+ ![GitHub Contribution Snake](https://github.com/ONEmanLAW/ONEmanLAW/blob/main/dist/snake.svg)
+
  
   
   <br/><br/><br/>
