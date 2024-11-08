@@ -2,22 +2,25 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Exécuter tous les jours à minuit
-  workflow_dispatch:   # Permet d'exécuter manuellement le workflow si nécessaire
+    - cron: "0 0 * * *"  # Exécution automatique tous les jours à minuit
+  workflow_dispatch:  # Option pour exécuter manuellement
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Utilise une machine virtuelle Ubuntu
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      - name: Checkout code
+        uses: actions/checkout@v2  # Vérifie que le code du dépôt est téléchargé
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v2  # Utilise Platane/snk pour générer le serpent
         with:
-          github_user_name: ONEmanLAW  # Remplace par ton nom d'utilisateur
-          outputs: dist/snake.svg
+          github_user_name: ONEmanLAW  # Ton nom d'utilisateur GitHub
+          outputs: dist/snake.svg  # Enregistre l'image générée dans dist/
 
       - name: Commit and push if snake.svg has changed
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4  # Commit et push l'image générée
         with:
-          commit_message: "Updated the contribution snake animation"
-          file_pattern: dist/snake.svg
+          commit_message: "Update contribution snake"
+          file_pattern: dist/snake.svg  # Pousse l'image générée dans ton dépôt
