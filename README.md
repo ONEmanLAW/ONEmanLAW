@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Python POO**
+ 🔭 I’m currently breaking my brain on **Python POO**
  
- 🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention**
+ 🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
- 👔 I also work at **Daesign, we make serious games**
+ 👔 I also work at **Daesign as a apprenticeship, we make serious games and a lot of cool things.**
 
      
 
