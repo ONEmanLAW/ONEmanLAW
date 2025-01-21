@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=F4D644&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Hugo+Culot+👋;I+CODE!;" />
 </h1>
 
-<h3 align="center">i guy who tries to code</h3>
+<h3 align="center">I'm a guy trying to code nice stuff</h3>
 
 <br/>
 
