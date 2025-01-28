@@ -63,7 +63,8 @@
 <br>
 <div align=center>
 
-
+![ONEmanLAW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=gruvbox) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONEmanLAW&layout=pie)](https://github.com/ONEmanLAW/github-readme-stats)
 
   
 </div>
