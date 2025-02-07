@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently breaking my brain on **UNITY**
+ 🔭 I’m currently breaking my brain on **MAKING A GAME**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
