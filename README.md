@@ -50,7 +50,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     
- <p>Comming soon ...</p>
+ 
+ [![ONEmanLAW's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ONEmanLAW&theme=react)](https://github.com/ONEmanLAW/)
+
 
  
   
@@ -63,7 +65,7 @@
 <br>
 <div align=center>
 
-<p>Comming soon ...</p>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ONEmanLAW&theme=react&hide_border=false)](https://github.com/ONEmanLAW/)
 
   
 </div>
