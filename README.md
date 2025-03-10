@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently breaking my brain on **MAKING A GAME**
+ 🔭 I’m currently breaking my brain on **Unity & C#**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
@@ -50,7 +50,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     
- ![GitHub Contribution Snake](https://github.com/ONEmanLAW/ONEmanLAW/blob/main/dist/snake.svg)
+ <p>Comming soon ...</p>
 
  
   
@@ -63,8 +63,7 @@
 <br>
 <div align=center>
 
-![ONEmanLAW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONEmanLAW&show_icons=true&theme=gruvbox) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONEmanLAW&layout=pie)](https://github.com/ONEmanLAW/github-readme-stats)
+<p>Comming soon ...</p>
 
   
 </div>
