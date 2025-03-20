@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently breaking my brain on **IOT**
+ 🔭 I’m currently breaking my brain on **IOT Prototype**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
