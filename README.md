@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently breaking my brain on **MY MÉMOIRE**
+ 🔭 I’m currently breaking my brain on **MY MÉMOIRE & Javascript Advance Feature**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
