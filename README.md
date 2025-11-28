@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently breaking my brain on **MY MÉMOIRE (i want to die, to hard, and also Kotelin)**
+ 🔭 I’m currently working on **Swift UI and building a app**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
