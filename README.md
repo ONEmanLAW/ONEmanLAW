@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Swift UI and building a app**
+ 🔭 I’m currently working on **Symfony**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
