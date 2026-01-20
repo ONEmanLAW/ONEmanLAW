@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
- 👔 I also work at **Daesign as a apprenticeship, we make serious games and a lot of cool things.**
+ 👔 I also work at **Daesign as a apprenticeship, we make serious games.**
 
      
 
