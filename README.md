@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MY FINAL PROJECT**
+ 🔭 I’m currently working on **MY FINAL PROJECT ON BEATBOX**
  
  🌱 I’m currently learning. I am a **Sudent at l'École by CCI Haute-Savoie Dn MADE Digital Mention (Gobelins)**
 
